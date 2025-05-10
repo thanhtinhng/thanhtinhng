@@ -68,7 +68,7 @@
 <br>
 
 <li>
-<a href="mailto:ngthanhtinh0801@gmail.com" target="_blank">
+<a href="mailto:ngthanhtinh801@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
