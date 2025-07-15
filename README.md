@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Thanh Tinh Nguyen</div>  
   
 
-- 🔭 3rd year student at University of Information Technology (HCM)  
+- 🔭 4rd year student at University of Information Technology (HCM)  
   
 
 - 🌱 Studying web development on my own  
